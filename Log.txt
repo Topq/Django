@@ -1,0 +1,500 @@
+  223  ls
+  224  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  225  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  226  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  227  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  228  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  229  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  230  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  231  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  232  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  233  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  234  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  235  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  236  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  237  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  238  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  239  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  240  ./adb install /Users/topq/Desktop/aturtles-release.apk
+  241  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  242  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  243  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  244  ./adb install /Users/topq/Desktop/astorm-release.apk 
+  245  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  246  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  247  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  248  cd /Users/topq/Documents/Android_Tool/adt-bundle-mac-x86_64-20140321/sdk/platform-tools
+  249  ls
+  250  adb logcat > /tmp/tt.txt
+  251  ./adb logcat > /tmp/tt.txt
+  252  ./adb logcat > /tmp/tt.txt
+  253  ./adb logcat > /tmp/tt.txt
+  254  ll
+  255  ls -al
+  256  ls
+  257  ./adb logcat > /tmp/tt.txt
+  258  ./adb logcat > /tmp/tt.txt
+  259  ./adb logcat > /tmp/tt.txt
+  260  ./adb logcat > /tmp/tt.txt
+  261  ./adb logcat > /tmp/tt.txt
+  262  ./adb logcat > /tmp/tt.txt
+  263  ./adb logcat > /tmp/tt.txt
+  264  ./adb logcat > /tmp/tt.txt
+  265  ./adb logcat > /tmp/tt.txt
+  266  ./adb logcat > /tmp/tt.txt
+  267  ls
+  268  cd Documents/
+  269  ls
+  270  cd Project_AStorm/
+  271  cd Client/
+  272  ls
+  273  cd src/client/Android_Strom/
+  274  ls
+  275  ./build_native.sh 
+  276  ./build_native.sh 
+  277  ./build_native.sh 
+  278  ./build_native.sh 
+  279  ./build_native.sh 
+  280  ./build_native.sh 
+  281  ./build_native.sh 
+  282  ./build_native.sh 
+  283  ./build_native.sh 
+  284  ./build_native.sh 
+  285  ./build_native.sh 
+  286  ./build_native.sh 
+  287  ./build_native.sh 
+  288  ./build_native.sh 
+  289  cd /Users/topq/Documents/Android_Tool/adt-bundle-mac-x86_64-20140321/sdk/platform-tools/
+  290  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  291  pwd
+  292  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  293  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  294  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  295  cd /Users/topq/Documents/Android_Tool/adt-bundle-mac-x86_64-20140321/sdk/platform-tools
+  296  ls
+  297  ./adb logcat > /tmp/ttt.txt
+  298  ./adb logcat > /tmp/ttt.txt
+  299  ./adb logcat > /tmp/ttt.txt
+  300  ./adb logcat > /tmp/ttt.txt
+  301  tail -f /tmp/ttt.txt 
+  302  tail -f /tmp/ttt.txt 
+  303  tail -f /tmp/ttt.txt 
+  304  tail -f /tmp/ttt.txt 
+  305  tail -f /tmp/ttt.txt 
+  306  clear
+  307  clear
+  308  tail -f /tmp/ttt.txt 
+  309  ;s
+  310  ls
+  311  python -v
+  312  python
+  313  ls
+  314  cd /
+  315  ls
+  316  cd Volumes/
+  317  ls
+  318  cd Macintosh\ HD
+  319  ;s
+  320  ls
+  321  cd home/
+  322  ls
+  323  ls
+  324  ls
+  325  cd ..
+  326  ls
+  327  cd Users/
+  328  ls
+  329  cd topq/Documents/
+  330  cd /
+  331  ls
+  332  cd Volumes/
+  333  ls
+  334  pwd
+  335  cd Macintosh\ HD
+  336  ;s
+  337  ls
+  338  pwd
+  339  cd Volumes/
+  340  pwd
+  341  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  342  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  343  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  344  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  345  ./adb install /Users/topq/Desktop/aturtles-release.apk 
+  346  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  347  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  348  ./adb install /Users/topq/Documents/AStormDesign/astorm_design/Android_APK/astorm-release.apk 
+  349  pwd
+  350  pwd
+  351  ./build_native.sh 
+  352  ./build_native.sh 
+  353  ./build_native.sh 
+  354  ./build_native.sh 
+  355  ./build_native.sh 
+  356  ./build_native.sh 
+  357  ./build_native.sh 
+  358  ./build_native.sh 
+  359  ./build_native.sh 
+  360  ./build_native.sh 
+  361  ./build_native.sh 
+  362  ./build_native.sh 
+  363  ./build_native.sh 
+  364  ./build_native.sh 
+  365  ./build_native.sh 
+  366  ./build_native.sh 
+  367  ./build_native.sh 
+  368  ./build_native.sh 
+  369  ./build_native.sh 
+  370  clear
+  371  clear
+  372  ./build_native.sh 
+  373  ./build_native.sh 
+  374  ./build_native.sh 
+  375  ./build_native.sh 
+  376  ./build_native.sh 
+  377  ./build_native.sh 
+  378  ./build_native.sh 
+  379  ./build_native.sh 
+  380  ./build_native.sh 
+  381  ./build_native.sh 
+  382  ./build_native.sh 
+  383  ./build_native.sh 
+  384  ./build_native.sh 
+  385  ./build_native.sh 
+  386  ./build_native.sh 
+  387  ./build_native.sh 
+  388  ./build_native.sh 
+  389  ./build_native.sh 
+  390  ./adb logcat > /tmp/ttt.txt
+  391  ./adb logcat > /tmp/ttt.txt
+  392  ./adb logcat > /tmp/ttt.txt
+  393  ./adb logcat > /tmp/ttt.txt
+  394  ./build_native.sh 
+  395  ./build_native.sh 
+  396  ./build_native.sh 
+  397  ./build_native.sh 
+  398  ./build_native.sh 
+  399  ./build_native.sh 
+  400  ./build_native.sh 
+  401  ./build_native.sh 
+  402  ./build_native.sh 
+  403  ./build_native.sh 
+  404  ./build_native.sh 
+  405  ./build_native.sh 
+  406  ./build_native.sh 
+  407  ./build_native.sh 
+  408  ./build_native.sh 
+  409  ./build_native.sh 
+  410  ./build_native.sh 
+  411  ./build_native.sh 
+  412  ./build_native.sh 
+  413  ./build_native.sh 
+  414  ./build_native.sh 
+  415  ./build_native.sh 
+  416  ./build_native.sh 
+  417  ./build_native.sh 
+  418  ./build_native.sh 
+  419  ./build_native.sh 
+  420  ./build_native.sh 
+  421  ./build_native.sh 
+  422  ./build_native.sh 
+  423  ./build_native.sh 
+  424  ./build_native.sh 
+  425  ./build_native.sh 
+  426  ./build_native.sh 
+  427  ./build_native.sh 
+  428  ./build_native.sh 
+  429  ./build_native.sh 
+  430  ./build_native.sh 
+  431  ./build_native.sh 
+  432  ./build_native.sh 
+  433  ./build_native.sh 
+  434  ./build_native.sh 
+  435  ./build_native.sh 
+  436  ./build_native.sh 
+  437  ./adb logcat > /tmp/ttt.txt
+  438  ./adb logcat > /tmp/ttt.txt
+  439  ./adb logcat > /tmp/ttt.txt
+  440  ./adb logcat > /tmp/ttt.txt
+  441  ./adb logcat > /tmp/ttt.txt
+  442  tail -f /tmp/ttt.txt 
+  443  tail -f /tmp/ttt.txt 
+  444  tail -f /tmp/ttt.txt 
+  445  ssh -p 22000 topq@10.1.1.7
+  446  LL
+  447  ssh -p 22000 topq@10.1.1.7
+  448  ll
+  449  pwd
+  450  ls -al
+  451  cd
+  452  pwd
+  453  touch connect_to_gateway
+  454  vim connect_to_gateway 
+  455  chmod +x connect_to_gateway 
+  456  ll
+  457  vim .bash_profile 
+  458  ll
+  459  ls -al
+  460  port search vim 
+  461  vim .bash_profile 
+  462  ll
+  463  ll
+  464  ls -al
+  465  ./connect_to_gateway 
+  466  ./connect_to_gateway 
+  467  ./connect_to_gateway 
+  468  ./connect_to_gateway 
+  469  vim .bash_profile 
+  470  vim .bash_profile 
+  471  vim .bash_profile 
+  472  vim .bash_profile 
+  473  exit
+  474  ll
+  475  ll
+  476  ./connect_to_gateway 
+  477  /Users/topq/Documents/backAtorm/android_third_pro111/plugin 
+  478  cd /Users/topq/Documents/backAtorm/android_third_pro111/plugin 
+  479  ls
+  480  la -la
+  481  ll
+  482  cd /Users/topq/Documents/backAtorm/taomeesdk/proj.android 
+  483  ls
+  484  ls -la
+  485  cd assets/
+  486  ls -la
+  487  echo plem_aa | -d'_' -f 2
+  488  echo plem_aa | cut -d'_' -f 2
+  489  echo plem_aaaaa | cut -d'_' -f 2
+  490  echo plem_aaaaa | cut -d'_' -f 2`
+  491  echo plem_aaaaa | cut -d'_' -f 2
+  492  `echo plem_aaaaa | cut -d'_' -f 2`
+  493  aa = `echo plem_aaaaa | cut -d'_' -f 2`
+  494  echo aa = `echo plem_aaaaa | cut -d'_' -f 2`
+  495  cd /Users/topq/Documents/Project_AStorm/Client/src/client/android_third_pro/plugin/plugins/taomeesdk/proj.android 
+  496  ls
+  497  ls -la
+  498  vim .project 
+  499  vim .classpath 
+  500  cd /Users/topq/Documents/workspace/ForTeacher/bin
+  501  ls
+  502  java ForTeacher.class 
+  503  java ForTeacher.class 
+  504  ls
+  505  java ForTeacher.class 
+  506* java -cp F
+  507  java ForTeacher
+  508  java ForTeacher
+  509  java ForTeacher
+  510  java ForTeacher
+  511  cd ..
+  512  ls
+  513  ls
+  514  cd src/
+  515  ;s
+  516  ls
+  517  javac ForTeacher.java
+  518  cd ..
+  519  ls
+  520  cd bin
+  521  ls
+  522  java ForTeacher
+  523  java ForTeacher
+  524  pwd
+  525  cd ..
+  526  cd ..
+  527  pwd
+  528  cd ForTeacher1
+  529  cd bin/
+  530  java ForTeacher
+  531  pwd
+  532  cd ..
+  533  cd /
+  534  cd Users/topq/Documents/workspace/ForTeacher/bin/
+  535  java ForTeacher
+  536  java ForTeacher
+  537  ls
+  538  cd ..
+  539  ls
+  540  cd src/
+  541  ls
+  542  javac ForTeacher.java 
+  543  python
+  544  git config --global user.name "Topq"
+  545  git config --global user.name "414983167@qq.com"
+  546  cd /
+  547  ls
+  548  cd usr/local/
+  549  ;s
+  550  ls
+  551  source /etc/profile 
+  552  vim /etc/profile 
+  553  git config --global user.name "414983167@qq.com"
+  554  git config --global user.name "Topq"
+  555  git config --global user.name "414983167@qq.com"
+  556  git -h
+  557  ls
+  558  cd /Users/topq/
+  559  ls
+  560  cd Documents/Django/
+  561  ls
+  562  git commit
+  563  .git commit
+  564  git init
+  565  ls
+  566  cd Django/
+  567  ls
+  568  vim README.md 
+  569  ls
+  570  cd ..
+  571  ls
+  572  cd ..
+  573  ls
+  574  git mkdir DjangoBLog
+  575  mkdir DjangoBLog
+  576  ls
+  577  cd DjangoBLog/
+  578  ls
+  579  git init
+  580  ls -la
+  581  vim text.txt
+  582  git commit -m "tt"
+  583  git diff
+  584  vim text.txt 
+  585  git diff
+  586  git commit -m "tt"
+  587  git add
+  588  git add text.txt 
+  589  git commit -m "tt"
+  590  vim text.txt 
+  591  git commit -m "tt"
+  592  git diff
+  593  git commit -m "tt"
+  594  git commit
+  595  git commit
+  596  cat tt1
+  597  cat tt1.tt
+  598  vim text1.tt
+  599  vim text1.tt
+  600  git add
+  601  git add .
+  602  git commit
+  603  git commit 
+  604  git commit -m "11"
+  605  vim text1.tt 
+  606  git commit -m "11"
+  607  git diff
+  608  git diff text.txt 
+  609  git diff
+  610  git push -u origin master
+  611  git diff remote add Django git@github.com:Topq/Django.git
+  612  git remote add Django git@github.com:Topq/Django.git
+  613  git push -u origin master
+  614  git push -u Django master
+  615  ls
+  616  ssh-keygen -t rsa -C "414983167@qq.com"
+  617  git remote add Topq git@github.com:Topq/Django.git
+  618  git push -u Topq  master
+  619  git remote add origin git@github.com:Topq/Django.git
+  620  git push -u origin  master
+  621  git remote add Django  git@github.com:Topq/Django.git
+  622  git remote add Django git@github.com:Topq/Django.git
+  623  git push -u Django  master
+  624  git remote add origin git@github.com:Topq/Django.git
+  625  git push -u Django  master
+  626  git push -u Django  master
+  627  git push -u origin  master
+  628  git pull Django origin master
+  629  git pull Django master
+  630  git push -u push  master
+  631  git pull Django master
+  632  git pull Django master
+  633  ls
+  634  vim README.md 
+  635  vim README.md 
+  636  git commit 
+  637  git commit -m "test"
+  638  git commit -m "test"
+  639  git push -u Django  master
+  640  git commit -m ""
+  641  git commit . -m ""
+  642  git commit README.md -m ""
+  643  git commit README.md -m "aa"
+  644  git push -u Django  master
+  645  git commit  -m "aa"
+  646  git commit -m "aa"
+  647  ls
+  648  pwd
+  649  git -h
+  650  echo ~/
+  651  echo /
+  652  echo pwd
+  653  echo $pwd
+  654  echo _
+  655  git commit -m "aa"
+  656  pwd
+  657  git commit/Users/topq/Documents/DjangoBLog  -m "aa"
+  658  git commit -m "aa"
+  659  vim text1.tt 
+  660  git commit -m "aa"
+  661  git commit text1.tt -m "aa"
+  662  git diff text1.tt text.txt 
+  663  git diff text1.tt text.txt 
+  664  git diff commit-id-1 commit-id-2
+  665  git log
+  666  git diff 988231452959f0e192a22d4a70ee89879a3ff8f7 21031e767dffe5e9d74d02b9bafe1a90fb9e2ffe
+  667  :q
+  668  git push
+  669  git push
+  670  git push Django master
+  671  git add
+  672  mkdir
+  673  mkdir aa
+  674  git add
+  675  git add aa
+  676  git rm aa
+  677  git rm -rf aa
+  678  git rm -r aa
+  679  ls
+  680  git rm  aa
+  681  git commit 
+  682  git commit -m "aa"
+  683  git commit -m "aa" aa
+  684  git commit -m "aa" aa
+  685  git commit -m "aa"
+  686  git add .
+  687  ls
+  688  cd aa/
+  689  cd ..
+  690  pwd
+  691  git commit 
+  692  git commit -m "aa"
+  693  git commit -m "aa" aa/
+  694  git add aa/
+  695  git commit -m "aa" aa/
+  696  ls
+  697  mkdir aa1
+  698  ls
+  699  git commit -m "aa"
+  700  cd aa/
+  701  ls
+  702  vim aa
+  703  cd ..
+  704  ls
+  705  rm -r aa1/
+  706  ls
+  707  git add aa/
+  708  git commit -m "aa"
+  709  git push Django master
+  710  history
+  711  pwd
+  712  history > /Users/topq/Documents/Django/Log.txt
+  713  ls
+  714  history > /Users/topq/Documents/Django/Log.txt
+  715  ls > /Users/topq/Documents/Django/Log.txt
+  716  pwd
+  717  ls
+  718  ls > Log.txt
+  719  ls
+  720  vim Log.txt 
+  721  rm Log.txt 
+  722  history > Log.txt
